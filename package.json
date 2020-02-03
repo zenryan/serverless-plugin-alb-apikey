@@ -1,0 +1,22 @@
+{
+  "name": "serverless-plugin-alb-apikey",
+  "version": "0.1.0",
+  "description": "Provide private route to Application Load Balancer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenryan/serverless-plugin-alb-apikey.git"
+  },
+  "keywords": [
+    "serverless"
+  ],
+  "author": "ryan zen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenryan/serverless-plugin-alb-apikey/issues"
+  },
+  "homepage": "https://github.com/zenryan/serverless-plugin-alb-apikey#readme"
+}
